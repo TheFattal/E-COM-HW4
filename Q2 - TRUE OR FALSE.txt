@@ -1,0 +1,27 @@
+if 4 < 9: ?  TRUE
+if (2 * 3 + 4) * (7 + 7): ? TRUE (not 0)
+if 18 + 18: ? TRUE (not 0)
+if 10 == 10: ? TRUE
+if 10 == 10 and 20 == 30: ? FALSE
+if 10 == 10 or 20 == 30: ? TRUE
+if 20 == 30 or 10 == 10: ? TRUE
+if not 3: ? FALSE (NOT TRUE)
+if 3: ? TRUE
+if (33 > 20) and (2 < 12) and 10: ? TRUE
+if True and True: ? TRUE
+if True and False: ? FALSE
+if True or False: ? TRUE
+if False or True: ? TRUE
+if (not 10) and (10): ? FALSE
+if (not 10) and (not 10): ? FALSE
+if 5 != 5 and 5 == 5: ? FALSE
+if 2 == 2 or 3 == 3: ? TRUE
+if 2 == 2 and 3 == 3: ? TRUE
+if 40 == 30 and 1 >= 4: ? FALSE
+if 13 >= 3 or 47 >= 5: ? TRUE
+
+
+החישובים נעשו לפי הגיון בוליאני מקובל, בו שונה מ-0 הוא אמת.
+
+ 
+ 
